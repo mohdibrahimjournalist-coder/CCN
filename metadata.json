@@ -1,0 +1,6 @@
+{
+  "name": "CCN Channel",
+  "description": "The official broadcasting application of CCN Channel, featuring interactive live studio, AI news script assistant, video streaming simulation, and breaking news alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
